@@ -1,0 +1,31 @@
+body {
+  margin: 20px;
+  padding: 0px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: black;
+}
+canvas {
+  box-shadow: black 20px 10px 50px;
+  border-style: double;
+  border-color: white;
+}
+#instructions {
+  color: black;
+  font-family: "Lora", serif;
+  color: bisque;
+}
+h1 {
+  font-family: "Lobster", cursive;
+  font-size: 60px;
+  color: bisque;
+}
+#button {
+  background-color: bisque;
+  border: bisque;
+  padding: 15px 32px;
+  text-align: center;
+  font-size: 16px;
+}

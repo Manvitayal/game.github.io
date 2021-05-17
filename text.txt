@@ -1,0 +1,4 @@
+Instructions for playing the game! <br></br>
+1. To start the game, press the 'up', 'down', 'left' or 'right' arrow keys on your keyboard. <br></br>
+2. The snake can be controlled by these arrow keys from your keyboard. <br></br>
+3. The game will be over if the head of the snake touches the walls or collides with it's body. <br></br>
